@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+__pycache__
+error_log
+*.h5
+corner_detection.png
+yolov4-default.png
